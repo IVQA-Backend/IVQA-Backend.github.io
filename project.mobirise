@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IVQA",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -38,7 +38,18 @@
     "screenshot": "screenshot.png",
     "mcShopcart": {
       "email": "kurtvanriper1@gmail.com"
-    }
+    },
+    "favicon": "@PROJECT_PATH@/assets/images/9901701-300x300.webp",
+    "robotsSwitcher": true,
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "": "on",
+    "noImageResize": true,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false
   },
   "pages": {
     "index.html": {
@@ -602,7 +613,7 @@
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.1,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">VIEW OUR PRODUCTS</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">LEARN MORE</a>"
           },
           "title": "CONTACT US",
           "title1": "Don't hesitate to contact us",
@@ -831,7 +842,7 @@
           },
           "title": "LOW, MEDIUM, &amp; HIGH COMPLEXITY MEDIA FILL TEST KITS<br>",
           "text": "IVQA Media Fill Test Kits will provide you the tools to comply with USP Chapter 797 Media Fill Test Procedure Standards on aseptic manipulation skills, including representative sterile microbial culture transfer and fill challenges. Our test kits are designed to assess correct technique and effective environmental control for the preparation of compounded sterile products.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"page1.html#msg-box3-x\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -907,9 +918,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Low-Complexity.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media2": {
@@ -918,9 +930,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "Medium-Complexity.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media3": {
@@ -929,9 +942,10 @@
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "High-Complexity.html",
               "alt": "",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "media4": {
@@ -976,9 +990,9 @@
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"page2.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRODUCT PAGE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRODUCT PAGE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRODUCT PAGE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"Low-Complexity.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRODUCT PAGE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"Medium-Complexity.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRODUCT PAGE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"High-Complexity.html\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\">PRODUCT PAGE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -1639,7 +1653,9 @@
           "_protectedParams": [],
           "_global": false,
           "_once": false,
-          "_params": {}
+          "_params": {},
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         }
       ]
     },
