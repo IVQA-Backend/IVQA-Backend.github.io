@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "IVQA",
-    "currentPage": "Medium-Complexity.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -256,13 +256,13 @@
               "family": "et-line"
             }
           },
-          "title1": "Kits Sold",
+          "title1": "Kits Sold Annually",
           "subtitle1": "Our Complexity Kits are trusted by our clients to maintain operational compliance.",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "title2": "Happy Clients",
           "subtitle2": "Customers have continued to utilize our kits for compliance since 2004.",
           "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "title3": "Years&nbsp;",
+          "title3": "Years in Business",
           "subtitle3": "Developing the most realiable &amp; accurate USP &lt;797&gt; Complexity Kits",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
           "title4": "Unlimited Sites",
@@ -272,7 +272,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "number1": "60000",
+          "number1": "10000",
           "number2": "250",
           "number3": "15",
           "number4": "3777",
@@ -559,7 +559,7 @@
           },
           "title": "USP &lt;797&gt; COMPLAINCE",
           "subtitle": "At IVQA, our goal is to provide a quality complexity kit to faciliate pharmacies, medical offices, and <br>clean rooms involved with preparation of compound sterile products to remain in USP Compliance.",
-          "feature_title1": "Innovative ideas",
+          "feature_title1": "Innovative",
           "feature_subtitle1": "Developing Complexity Kits",
           "feature_text1": "When the USP &lt;797&gt; was instated, we were one of the first companies to develop a solution to maintaining regulatory compliance.",
           "feature_title2": "Reliable &amp; Accurate",
@@ -613,7 +613,7 @@
             "overlay": true,
             "overlayColor": "#000",
             "overlayOpacity": 0.1,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">BUY NOW - $63.00</a>"
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">VIEW OUR PRODUCTS</a>"
           },
           "title": "CONTACT US",
           "title1": "Don't hesitate to contact us",
@@ -682,7 +682,7 @@
         {
           "_params": {
             "showTitle": true,
-            "showSubtitle": true,
+            "showSubtitle": false,
             "autoplay": true,
             "timeout": 5,
             "paddingTop": 2,
@@ -742,7 +742,7 @@
             ]
           },
           "title": "OUR CLIENTS",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "subtitle": "",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
